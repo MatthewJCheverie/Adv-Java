@@ -1,0 +1,11 @@
+answers | questions
+true | My favorite color is blue
+false | I play video games
+true | This program is written in java
+false | I like dogs over cats
+true | I am a computer science transfer student
+false | I have more than 2 brothers
+true | I have one sister
+false | I hate animation
+true | One piece is my favorite anime
+false | I graduated from massasoit
